@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: inter-bold;
+  src: url("./assets/fonts/Inter-Bold.ttf");
+}
+
+@font-face {
+  font-family: inter-el;
+  src: url("./assets/fonts/Inter-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: inter-rg;
+  src: url("./assets/fonts/Inter-Regular.ttf");
+}
+
+@font-face {
+  font-family: remix;
+  src: url("./assets/fonts/remixicon.ttf");
+}
+
+@font-face {
+  font-family: apw-bold;
+  src: url("./assets/fonts/acumin-pro-wide-bold.ttf");
+}
+
+@font-face {
+  font-family: apw-md;
+  src: url("./assets/fonts/acumin-pro-wide-medium.ttf");
+}
+
+@font-face {
+  font-family: apw-rg;
+  src: url("./assets/fonts/Acumin-Pro-Wide-Regular.ttf");
+}
