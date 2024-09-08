@@ -1,13 +1,2 @@
-header
-    swiper
-    navbar
-    image banner
-    text and btn on banner
-
-mid section
-    sneaker
-    banner
-    tshirts
-    fragrances
-
-footer
+#this is not a responsive website it is for desktop(laptop) view only.
+working on responsive
