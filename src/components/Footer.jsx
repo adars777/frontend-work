@@ -145,7 +145,7 @@ const Footer = () => {
 
           <hr className="border-black" />
 
-          <div className="flex justify-between font[apw-rg] pb-5 ">
+          <div className="flex justify-between font[apw-rg] pb-5 text-sm">
             <p>#FactsOfAhmedabad</p>
             <p>
               Ahmedabad is the first UNESCO World Heritage City in India,
